@@ -1,0 +1,124 @@
+body {
+    
+    margin: 0px;
+    padding: 0px;
+    background-color: #0a0a0a;
+}
+
+.space{
+    display:block;
+    height:10vh;
+}
+.left{
+    float:left;
+}
+
+
+.left-ul{
+    border-top: 2vw solid #0a0a0a;
+    padding: 0px;
+    list-style-type: none;
+    width: 25vw; 
+    background-color: #0a0a0a;
+    margin: 0px;
+    
+}
+
+.left-ul li a {
+    display: block;
+    color: #b3b3b3;
+    padding: 2vw 5vw;
+    border-width: 0vw 0.5vw;
+    border-style: solid;
+    border-color: #0a0a0a;
+    
+    text-decoration: none;
+}
+
+
+.left-ul li a:hover {
+    border-left-color: slateblue;
+    text-decoration:none;
+    color: #a6a6a6;
+}
+.right{
+    margin-left:25vw;
+}
+div .right-up{
+    background-color:#0a0a0a;
+    color:white;
+}
+.right-up li{
+    display:inline;
+    list-style-type: none;
+    width:75vw;
+    height:25vh;
+}
+#work{
+
+    color:#b3b3b3;
+    text-decoration: none;
+    font-size:50pt;
+}
+
+#chienchiu{
+    color:#b3b3b3;
+    padding:0px 0px 0px 45vw;
+    font-style:
+}
+
+  
+
+.right-middle{
+    margin:5vw 0px 0px 2vw;
+    display:inline-block;
+    width:45vw;
+    height:60vh;
+    background-image:url('https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/29468976_1455926257849840_7967312866933997568_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeHF1MB31F3GKBf51T4XA1I0kJRqYOZMt3sQ8RtYfCHAb_7IVOymIzAr-ztd8MGGEBFn9lgIXlyPD2mHv-UM5upysoR-4KpB_UCrZPLH7PHzTg&oh=fe5003f52e807e33bf752b4443e68a70&oe=5B37CD13');
+    background-repeat:no-repeat;
+    background-size:contain;
+}
+#transform{
+    display:inline-block;
+    font-size:10pt;
+    color:#595959;
+    padding-left:20.5vw;
+    padding-top:10vh;
+    transform:rotate(-90deg);
+}
+.right-down{
+    display:block;
+    border-top:15vh solid #0A0A0A;
+    height:40vh;
+}
+#hairdryer{
+    display:inline;
+    margin-left:2vw;
+    padding-bottom:5px;
+    border-bottom:1.5px solid #a6a6a6;
+    color:#a6a6a6;
+}
+#introduction{
+    font-size:10pt;
+    display:inline;
+    margin-left:8vw;
+    width:20vw;
+    color:#595959;
+    border-left:0.5px solid #595959;
+    padding-left:20px;
+    padding-bottom:50px;
+}
+#small{
+    font-size:10pt;
+    display:inline;
+    margin-left:8vw;
+    width:10vw;
+    color:#595959;
+    border-left:0.5px solid #595959;
+    padding-left:20px;
+    padding-bottom:50px;
+    margin-bottom:50px
+}
+
+
+
